@@ -31,7 +31,7 @@ To run the Snake and Ladders game on your local machine, follow these steps:
    Compile and Run the Game:
    javac SnakeAndLaddersGame.java
    java SnakeAndLaddersGame
-How to Play
+## How to Play
 The game is played on a board with numbered squares.
 Players take turns rolling a six-sided die and move their tokens forward.
 Snakes and Ladders on the board can either help or hinder a player's progress.
@@ -44,13 +44,13 @@ The game continues until a player reaches the last square.
 Contributing
 If you'd like to contribute to the development of the Snake and Ladders game, please follow these guidelines:
 
-Fork the repository.
+## Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and test them.
 Commit your changes with a clear and concise commit message.
 Push your changes to your forked repository.
 Submit a pull request.
-License
+## License
 This Snake and Ladders game is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
 You can now copy and paste this template into your README.md file on GitHub. Make sure to replace "your-username" with your actual GitHub username in the clone URL and update any other specifics related to your implementation of the Snake and Ladders game.
