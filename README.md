@@ -55,4 +55,5 @@ This Snake and Ladders game is licensed under the MIT License. Feel free to use,
 
 You can now copy and paste this template into your README.md file on GitHub. Make sure to replace "your-username" with your actual GitHub username in the clone URL and update any other specifics related to your implementation of the Snake and Ladders game.
 
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](https://github.com/HassaneJaber/MyFirstProjectt)
 
