@@ -24,7 +24,7 @@ To run the Snake and Ladders game on your local machine, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/snake-and-ladders.git
+   git clone https://github.com/HassaneJaber/snake-and-ladders.git
 
    Navigate to the Project Directory:
    cd snake-and-ladders
@@ -53,7 +53,7 @@ Submit a pull request.
 ## License
 This Snake and Ladders game is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
-You can now copy and paste this template into your README.md file on GitHub. Make sure to replace "your-username" with your actual GitHub username in the clone URL and update any other specifics related to your implementation of the Snake and Ladders game.
+
 
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](https://github.com/HassaneJaber/MyFirstProjectt)
 
